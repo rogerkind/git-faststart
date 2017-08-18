@@ -1,1 +1,2 @@
 printf(good bye);
+print(bye bye);
