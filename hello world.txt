@@ -1,2 +1,4 @@
 print("Hello World");
 print("Hello everyone");
+print(what's up);
+printf(How are you doing):
